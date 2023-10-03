@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb710a001890d9a44bb74a8ce4f20cc0
+timeCreated: 1478570042
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32647
+  packageName: SteamVR Plugin
+  packageVersion: 2.7.3 (sdk 1.14.15)
+  assetPath: Assets/SteamVR/InteractionSystem/Samples/Prefabs/ThrowableCube.prefab
+  uploadId: 419664

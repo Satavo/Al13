@@ -410,11 +410,6 @@
 /nologo
 /RuntimeMetadataVersion:v4.0.30319
 
-/nowarn:0169
-/nowarn:0649
-/nowarn:0282
-/nowarn:1701
-/nowarn:1702
 /utf8output
 /preferreduilang:en-US
 

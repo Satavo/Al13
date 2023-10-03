@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d93b955753287b048b63d232fa679470
+timeCreated: 1547853572
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32647
+  packageName: SteamVR Plugin
+  packageVersion: 2.7.3 (sdk 1.14.15)
+  assetPath: Assets/SteamVR/Resources/ReferencePose_OpenHand.asset
+  uploadId: 419664

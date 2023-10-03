@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: daf28736fcb032a44b7a5c1fd0a27b15
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 32647
+  packageName: SteamVR Plugin
+  packageVersion: 2.7.3 (sdk 1.14.15)
+  assetPath: Assets/SteamVR/InteractionSystem/Longbow/Prefabs/FireWhip.prefab
+  uploadId: 419664
