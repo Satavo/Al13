@@ -374,6 +374,10 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
 -analyzer:"G:/Unity/Projects/2023.1.15f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"G:/Unity/Projects/2023.1.15f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/Scripts/Act_1.cs"
+"Assets/Scripts/Act_2.cs"
+"Assets/Scripts/Act_3.cs"
+"Assets/Scripts/Act_4.cs"
 "Assets/Scripts/Animation.cs"
 "Assets/Scripts/Test.cs"
 -langversion:9.0
